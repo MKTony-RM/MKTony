@@ -25,13 +25,6 @@ I'm an **Electronics Engineer Student** passionate about bridging the world of h
 
 </div>
 
-| Language / Technology | Main Use |
-|---|---|
-| 🐍 **Python** | Automation, data analysis and scripting |
-| 🔩 **C** | Low-level programming and microcontrollers |
-| 🗄️ **SQL** | Database management and querying |
-| 🔌 **Ladder** | PLC programming and industrial control |
-
 ---
 
 ## ⚙️ Areas of Interest
