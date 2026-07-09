@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+an+Electronics+Engineer+%E2%9A%A1;Exploring+Computer+Science+%F0%9F%92%BB;Automation+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20Engineering%20%7C%20Circuits%2C%20Code%20%26%20Control&descAlignY=58&descSize=16)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi!+Mark+Here;I'm+an+Electronics+Engineer+Student;Exploring+Computer+Science" alt="Typing SVG" />
 
 </div>
 
