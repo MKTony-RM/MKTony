@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm an **Electronics Engineer** passionate about bridging the world of hardware and software. Currently I'm:
+I'm an **Electronics Engineer Student** passionate about bridging the world of hardware and software. Currently I'm:
 
 - 🎓 Deepening my knowledge of **Computer Science** (algorithms, data structures and programming fundamentals).
 - ⚡ Continuously **preparing and specializing further in Electronics** (circuits, industrial control and automation).
